@@ -1,0 +1,30 @@
+C:\Users\modzu\OneDrive\Documents\2nd Year\PRG281\Stock and inventory management 2.0\Stock and inventory management 2.0\bin\Debug\Stock and inventory management.exe.config
+C:\Users\modzu\OneDrive\Documents\2nd Year\PRG281\Stock and inventory management 2.0\Stock and inventory management 2.0\bin\Debug\Stock and inventory management.exe
+C:\Users\modzu\OneDrive\Documents\2nd Year\PRG281\Stock and inventory management 2.0\Stock and inventory management 2.0\bin\Debug\Stock and inventory management.pdb
+C:\Users\modzu\OneDrive\Documents\2nd Year\PRG281\Stock and inventory management 2.0\Stock and inventory management 2.0\obj\Debug\Stock and inventory management.csproj.AssemblyReference.cache
+C:\Users\modzu\OneDrive\Documents\2nd Year\PRG281\Stock and inventory management 2.0\Stock and inventory management 2.0\obj\Debug\Stock and inventory management.csproj.CoreCompileInputs.cache
+C:\Users\modzu\OneDrive\Documents\2nd Year\PRG281\Stock and inventory management 2.0\Stock and inventory management 2.0\obj\Debug\Stock and inventory management.exe
+C:\Users\modzu\OneDrive\Documents\2nd Year\PRG281\Stock and inventory management 2.0\Stock and inventory management 2.0\obj\Debug\Stock and inventory management.pdb
+C:\Users\modzu\OneDrive\Documents\2nd Year\PRG281\Stock and inventory management 2.0 edit\Stock and inventory management 2.0\bin\Debug\Stock and inventory management.exe.config
+C:\Users\modzu\OneDrive\Documents\2nd Year\PRG281\Stock and inventory management 2.0 edit\Stock and inventory management 2.0\bin\Debug\Stock and inventory management.exe
+C:\Users\modzu\OneDrive\Documents\2nd Year\PRG281\Stock and inventory management 2.0 edit\Stock and inventory management 2.0\bin\Debug\Stock and inventory management.pdb
+C:\Users\modzu\OneDrive\Documents\2nd Year\PRG281\Stock and inventory management 2.0 edit\Stock and inventory management 2.0\obj\Debug\Stock and inventory management.csproj.AssemblyReference.cache
+C:\Users\modzu\OneDrive\Documents\2nd Year\PRG281\Stock and inventory management 2.0 edit\Stock and inventory management 2.0\obj\Debug\Stock and inventory management.csproj.CoreCompileInputs.cache
+C:\Users\modzu\OneDrive\Documents\2nd Year\PRG281\Stock and inventory management 2.0 edit\Stock and inventory management 2.0\obj\Debug\Stock and inventory management.exe
+C:\Users\modzu\OneDrive\Documents\2nd Year\PRG281\Stock and inventory management 2.0 edit\Stock and inventory management 2.0\obj\Debug\Stock and inventory management.pdb
+C:\Users\swism\Desktop\Stock and inventory management 2.0 edit\Stock and inventory management 2.0\bin\Debug\Stock and inventory management.exe.config
+C:\Users\swism\Desktop\Stock and inventory management 2.0 edit\Stock and inventory management 2.0\bin\Debug\Stock and inventory management.exe
+C:\Users\swism\Desktop\Stock and inventory management 2.0 edit\Stock and inventory management 2.0\bin\Debug\Stock and inventory management.pdb
+C:\Users\swism\Desktop\Stock and inventory management 2.0 edit\Stock and inventory management 2.0\obj\Debug\Stock and inventory management.csproj.AssemblyReference.cache
+C:\Users\swism\Desktop\Stock and inventory management 2.0 edit\Stock and inventory management 2.0\obj\Debug\Stock and inventory management.exe.config
+C:\Users\swism\Desktop\Stock and inventory management 2.0 edit\Stock and inventory management 2.0\obj\Debug\Stock and inventory management.csproj.CoreCompileInputs.cache
+C:\Users\swism\Desktop\Stock and inventory management 2.0 edit\Stock and inventory management 2.0\obj\Debug\Stock and inventory management.exe
+C:\Users\swism\Desktop\Stock and inventory management 2.0 edit\Stock and inventory management 2.0\obj\Debug\Stock and inventory management.pdb
+C:\Users\modzu\OneDrive\Documents\2nd Year\PRG281\Stock and inventory management 2.0 edit GH\Stock and inventory management 2.0 edit\Stock and inventory management 2.0\bin\Debug\Stock and inventory management.exe.config
+C:\Users\modzu\OneDrive\Documents\2nd Year\PRG281\Stock and inventory management 2.0 edit GH\Stock and inventory management 2.0 edit\Stock and inventory management 2.0\bin\Debug\Stock and inventory management.exe
+C:\Users\modzu\OneDrive\Documents\2nd Year\PRG281\Stock and inventory management 2.0 edit GH\Stock and inventory management 2.0 edit\Stock and inventory management 2.0\bin\Debug\Stock and inventory management.pdb
+C:\Users\modzu\OneDrive\Documents\2nd Year\PRG281\Stock and inventory management 2.0 edit GH\Stock and inventory management 2.0 edit\Stock and inventory management 2.0\obj\Debug\Stock and inventory management.csproj.AssemblyReference.cache
+C:\Users\modzu\OneDrive\Documents\2nd Year\PRG281\Stock and inventory management 2.0 edit GH\Stock and inventory management 2.0 edit\Stock and inventory management 2.0\obj\Debug\Stock and inventory management.exe.config
+C:\Users\modzu\OneDrive\Documents\2nd Year\PRG281\Stock and inventory management 2.0 edit GH\Stock and inventory management 2.0 edit\Stock and inventory management 2.0\obj\Debug\Stock and inventory management.csproj.CoreCompileInputs.cache
+C:\Users\modzu\OneDrive\Documents\2nd Year\PRG281\Stock and inventory management 2.0 edit GH\Stock and inventory management 2.0 edit\Stock and inventory management 2.0\obj\Debug\Stock and inventory management.exe
+C:\Users\modzu\OneDrive\Documents\2nd Year\PRG281\Stock and inventory management 2.0 edit GH\Stock and inventory management 2.0 edit\Stock and inventory management 2.0\obj\Debug\Stock and inventory management.pdb
